@@ -1,3 +1,5 @@
+#   Exhange Dollars to coins
+
 def Dollars():
 
     while True:

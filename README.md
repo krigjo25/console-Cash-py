@@ -1,9 +1,9 @@
-# Cash
+# Cash exchanger
 An application that calculates how many coins there is in propmted text
 
 The application was implemented as an assignment at CS50P
 Please respect, and keep the [Academic Honesty Policy](https://cs50.harvard.edu/x/2023/honesty/) in mind.<br>
-A demo of the application can be watched at [CS50Page](https://cs50.harvard.edu/x/2024/psets/6/cash/)
+A demo of the application can be watched [Demo : Cash Exchanger](https://cs50.harvard.edu/x/2024/psets/6/cash/)
 
 ## Installation
 1. Clone the repository:
